@@ -1,0 +1,6 @@
+Upcoming Lankbot Updates---
+-----
+Make permissions for commands have the correct permissions (ex. &clear instead of needing admin perms, you need manage_messages perm)
+-----
+Random Images Command
+-----
